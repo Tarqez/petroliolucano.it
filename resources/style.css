@@ -13,7 +13,7 @@ body{
 	letter-spacing: -0.025em;
 }
 
-h1, h3 {margin-bottom: 0.5em; clear: both;}
+h1, h2, h3, h4 {margin-bottom: 0.5em; clear: both;}
 p {margin-top: 0;}
 
 a {
@@ -28,6 +28,8 @@ a:hover {
 }
 
 img {width: 100px; margin: 0 1em 1em 0;}
+
+#break-line {text-align: center;}
 
 #footer {
 	bottom: 0;
