@@ -10,7 +10,7 @@ body{
 	text-align: justify;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 16pt;
-	letter-spacing: -0.025em;
+	/*letter-spacing: -0.025em;*/
 }
 
 h1, h2, h3, h4 {margin-bottom: 0.5em; clear: both;}
@@ -29,6 +29,9 @@ a:hover {
 
 img {width: 100px; margin: 0 1em 1em 0;}
 
+ul {list-style-type: circle;}
+li {margin: 0 0 1em 0; text-align: left;}
+
 #break-line {text-align: center;}
 
 #footer {
@@ -37,7 +40,6 @@ img {width: 100px; margin: 0 1em 1em 0;}
 	height: 6em;
 	left: 0;
 	line-height: 8em;
-	position: absolute;
 	text-align: center;
 	width: 100%;		
 }		
