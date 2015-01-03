@@ -32,7 +32,7 @@ img {width: 100px; margin: 0 1em 1em 0;}
 ul {list-style-type: circle;}
 li {margin: 0 0 1em 0; text-align: left;}
 
-#sharing_zone {text-align: center; width: 100%;}
+#fb_like_page {float: right; width: 100%;}
 
 #footer {
 	bottom: 0;
