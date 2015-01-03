@@ -32,7 +32,8 @@ img {width: 100px; margin: 0 1em 1em 0;}
 ul {list-style-type: circle;}
 li {margin: 0 0 1em 0; text-align: left; clear:both;}
 
-.fb-like-box {float: right; width: 50%;}
+.fb-like-box {float: right; width: 65%;}
+#citizen {vertical-align: middle;}
 
 #footer {
 	bottom: 0;
