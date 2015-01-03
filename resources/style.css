@@ -33,7 +33,7 @@ ul {list-style-type: circle;}
 li {margin: 0 0 1em 0; text-align: left;}
 li#after_fb_like { clear:both;}
 
-#fb-like-box {float: right; width: 50%;}
+.fb-like-box {float: right; width: 50%;}
 
 #footer {
 	bottom: 0;
